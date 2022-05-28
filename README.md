@@ -1,6 +1,6 @@
-# DSBDA_Assignments
+# DSBDA_Assignments 👨‍💻
 
-This repository contains all my lab assignments for the Data Science and Big Data Analytics Subject.
+📃 This repository contains all my lab assignments for the Data Science and Big Data Analytics Subject.
 
 1. Assignment 1 : [Data Wrangling 1](https://github.com/sanjyotpanure/DSBDA_Assignments/blob/master/DataWrangling1_dirtydata.ipynb) &nbsp;
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanjyotpanure/DataWrangling1_dirtydata.ipynb)
